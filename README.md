@@ -1,5 +1,7 @@
 # Power Meter
 
+> **Power Meter now lives in [Mini Apps](https://github.com/whatwhatwhoa/MiniApps)** (`apps/powermeter`), with the other small apps in the series. The releases here stay; new releases come out there.
+
 **A plain, light battery power meter for Android phones and tablets.**
 See what your device really takes in and draws: how fast a charger charges, what an app or
 standby costs.
